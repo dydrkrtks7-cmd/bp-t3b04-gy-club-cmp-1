@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinjeong-club-note.go-bangbae-room.xyz/sitemap.xml
+Sitemap: https://sinjeong-club-note.go-bangbae-room.xyz/sitemap-pages.xml
